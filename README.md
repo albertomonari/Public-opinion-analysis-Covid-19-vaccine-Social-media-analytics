@@ -5,7 +5,7 @@
 The aim of this project is to analyse public opinion regarding the covid-19 vaccine.
 The analysis is based on 207719 tweets over a time range of 15 hours (first tweet: 2021-01-24 19:41:23 UTC; last tweet: 2021-01-25 10:30:37 UTC) in English containing the word ‘vaccine’ to analyse public opinion.
 
-The project was done using R, exported to an annotated R Markdown document and finally converted to HTML format (tweets_vaccine.html).
+The project was done using R, exported to an annotated [R Markdown](tweets_vaccine.rmd) document and finally converted to [HTML](tweets_vaccine.html).
 
 The notebook is divided into the following parts:
 - time range analysis
